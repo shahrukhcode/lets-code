@@ -1,1 +1,1 @@
-# lets-code
+print('Hello, world!')
